@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "1-ci tapsiriq/1.0.0": {
+        "runtime": {
+          "1-ci tapsiriq.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1-ci tapsiriq/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
